@@ -7,6 +7,7 @@ const midudev = {
 	age: 22
 }
 ```
+[![Rangel's github stats](https://github-readme-stats.vercel.app/api?username=AgustinRangelIbarra&theme=dark&show_icons=true)](https://github.com/AgustinRangelIbarra/github-readme-stats)
 
 <!--
 **AgustinRangelIbarra/AgustinRangelIbarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
