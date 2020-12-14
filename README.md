@@ -1,12 +1,5 @@
-### Hi there 👋
+### :copmuter: Hey man! :headphones:
 
-```js
-const rangel = {
-	pronouns: "he" | "him",
-	code: {Javascript, HTML, CSS, C++},
-	age: 22
-}
-```
 [![Rangel's github stats](https://github-readme-stats.vercel.app/api?username=AgustinRangelIbarra&theme=dark&show_icons=true)](https://github.com/AgustinRangelIbarra/github-readme-stats)
 
 <!--
