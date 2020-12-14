@@ -1,4 +1,4 @@
-### :copmuter: Hey man! :headphones:
+### :computer: Hey man! :v: :headphones:
 
 [![Rangel's github stats](https://github-readme-stats.vercel.app/api?username=AgustinRangelIbarra&theme=dark&show_icons=true)](https://github.com/AgustinRangelIbarra/github-readme-stats)
 
