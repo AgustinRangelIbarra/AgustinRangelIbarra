@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```js
-const midudev = {
+const rangel = {
 	pronouns: "he" | "him",
 	code: {Javascript, HTML, CSS, C++},
 	age: 22
