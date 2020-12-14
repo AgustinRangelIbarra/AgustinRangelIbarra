@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+```js
+const midudev = {
+	pronouns: "he" | "him",
+	code: {Javascript, HTML, CSS, C++},
+	age: 22
+}
+```
+
 <!--
 **AgustinRangelIbarra/AgustinRangelIbarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
